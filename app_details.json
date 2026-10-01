@@ -3,35 +3,35 @@
     "title": "Little Steps",
     "package": "com.quantacore.littlesteps",
     "download_url": "https://play.google.com/store/apps/details?id=com.quantacore.littlesteps",
-    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details/blob/main/thumbnails/little_steps.webp",
+    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details_ios/blob/main/thumbnail/little_steps.webp",
     "enable": "true"
   },
   {
     "title": "Bhavarth",
     "package": "com.quantacore.bhavarth",
     "download_url": "https://play.google.com/store/apps/details?id=com.quantacore.bhavarth",
-    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details/blob/main/thumbnails/lotus_om.webp",
+    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details_ios/blob/main/thumbnail/lotus_om.webp",
     "enable": "true"
   },
   {
     "title": "ExpenseQ",
     "package": "com.quantacore.expenseq",
     "download_url": "https://play.google.com/store/apps/details?id=com.quantacore.expenseq",
-    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details/blob/main/thumbnails/expense_q.webp",
+    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details_ios/blob/main/thumbnail/expense_q.webp",
     "enable": "true"
   },
   {
     "title": "DocQ",
     "package": "com.quantacore.docustudio",
     "download_url": "https://play.google.com/store/apps/details?id=com.quantacore.docustudio",
-    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details/blob/main/thumbnails/docq.webp",
+    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details_ios/blob/main/thumbnail/docq.webp",
     "enable": "true"
   },
   {
     "title": "Social Saver",
     "package": "com.quantacore.socialsaver",
     "download_url": "https://play.google.com/store/apps/details?id=com.quantacore.socialsaver",
-    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details/blob/main/thumbnails/social_saver.webp",
+    "thumbnail_url": "https://github.com/solutionsquantacore-droid/app_details_ios/blob/main/thumbnail/social_saver.webp",
     "enable": "true"
   }
 ]
